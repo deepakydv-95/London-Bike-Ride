@@ -63,6 +63,17 @@ While working on this project, I gained practical experience in:
 
 - `London Bike Ride Project.twbx` – Tableau packaged workbook containing the project dashboard and data.
 
+## 🔍 Key Insights
+
+- **Ride Demand:** Bike usage changes throughout the day, helping identify periods of higher and lower demand.
+- **Hourly Trends:** The hourly analysis helps identify busy hours and understand daily travel patterns.
+- **Seasonal Patterns:** Bike usage can be compared across different seasons to understand changes in demand.
+- **Weather Impact:** Weather conditions play an important role in understanding variations in bike ride demand.
+- **Temperature & Wind Speed:** The heatmap helps explore how temperature and wind speed are associated with bike usage.
+- **Ride Trends:** The moving average makes it easier to identify overall trends and changes in bike demand over time.
+
+These insights help understand bike-sharing usage patterns and support better planning of bike-sharing services in London.
+
 ## 💡 Conclusion
 
 This project helped me improve my Tableau and data visualization skills. It also gave me practical experience in exploring real-world data and turning it into meaningful insights.
